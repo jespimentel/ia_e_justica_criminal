@@ -21,6 +21,7 @@ Slides da nossa palestra na PUC/SP
 AGRAWAL, Ajay; GANS, Joshua; GOLDFARB, Avi. **Máquinas preditivas**: a simples economia da inteligência artificial. Tradução: Wendy Campos. Rio de Janeiro: Alta Books, 2018.
 
 LEE, Kai-Fu. **Inteligência artificial**: como os robôs estão mudando o mundo, a forma como amamos, nos comunicamos e vivemos. Tradução: Marcelo Barbão. Rio de Janeiro: Globo Livros, 2019.
+
 PIMENTEL, José Eduardo de Souza. **Direito e ética da inteligência artificial e dos algoritmos de “caixa preta”**. Ebook Kindle, 2021. [Disponível também on line em: <[https://github.com/jespimentel/direito_e_etica_ia](https://jespimentel.github.io/direito_e_etica_ia/)>]
 
 TURING, Dermot. **A história da computação**: do ábaco à inteligência artificial. Tradução: Maria Beatriz de Medina. São Paulo: M. Books do Brasil Editora Ltda, 2019.
