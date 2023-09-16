@@ -27,3 +27,15 @@ PIMENTEL, José Eduardo de Souza. **Direito e ética da inteligência artificial
 TURING, Dermot. **A história da computação**: do ábaco à inteligência artificial. Tradução: Maria Beatriz de Medina. São Paulo: M. Books do Brasil Editora Ltda, 2019.
 
 WASHINGTON, Anne L. How to argue with an algorithm: lessons from the COMPAS-ProPublica debate. **The Colorado Technology Law Journal**. Vol. 17-1. p. 131-160, 2018. Disponível em: <http://ctlj.colorado.edu/wp-content/uploads/2021/02/17.1_4-Washington_3.18.19.pdf>. Acesso em: 16 set. 2023.
+
+
+## Estudo complementar
+
+Por que um advogado deveria aprender a programar. Disponível em: <https://preambulo.com.br/blog/programacao-para-advogados/>. Acesso em: 16 set. 2023.
+
+Harvard University: CS50's Computer Science for Lawyers (curso gratuito em Inglês). Disponível em: <https://www.edx.org/learn/computer-science/harvard-university-cs50-s-computer-science-for-lawyers>. Acesso em: 16 set. 2023.
+
+Introdução à ciência da computação com Python (curso gratuito da USP e Coursera). Disponível em: <https://www.coursera.org/learn/ciencia-computacao-python-conceitos>. Acesso em: 16 set. 2023.
+
+SEVERANCE, Charles R. **Python para todos**: explorando dados com Python 3 (livro gratuito em PDF). Disponível em: <http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf>. Acesso em: 16 set. 2023. 
+
