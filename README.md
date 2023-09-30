@@ -31,6 +31,8 @@ WASHINGTON, Anne L. How to argue with an algorithm: lessons from the COMPAS-ProP
 
 ## Estudo complementar
 
+Por que promotores de justiça deveriam conhecer o Python? Disponível em: <https://medium.com/@pimentel.jes/por-que-promotores-de-justiça-deveriam-conhecer-o-python-26c9c7860f43>. Acesso em: 30 set. 2023.
+
 Por que um advogado deveria aprender a programar. Disponível em: <https://preambulo.com.br/blog/programacao-para-advogados/>. Acesso em: 16 set. 2023.
 
 Harvard University: CS50's Computer Science for Lawyers (curso gratuito em Inglês). Disponível em: <https://www.edx.org/learn/computer-science/harvard-university-cs50-s-computer-science-for-lawyers>. Acesso em: 16 set. 2023.
